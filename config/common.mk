@@ -167,7 +167,8 @@ PRODUCT_PACKAGES += \
     PrimaryColorFlameOverlay \
     PrimaryColorGrayOverlay \
     PrimaryColorNatureOverlay \
-    PrimaryColorOceanOverlay
+    PrimaryColorOceanOverlay \
+    PrimaryColorClearOverlay
 
 # Offline charger
 PRODUCT_PACKAGES += \
